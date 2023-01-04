@@ -7,7 +7,7 @@
 
 <div align="center">
 
-**The documentation of the most powerful lightweight package, HyteScript.js**
+**The documentation of the most powerful lightweight package to build discord bots, HyteScript.js**
     
 </div>
 
