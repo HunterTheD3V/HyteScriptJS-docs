@@ -36,7 +36,7 @@ the hytescript documentation is made by [Hunter](https://github.com/NickHunterD3
 
 Contributtors:
 - [Hunter (documentation developer)](https://github.com/NickHunterD3V)
-- [Paebukoa (package owner)](https://github.com/Paebukoa)
+- [Paebukoa (package owner)](https://github.com/gabriel-flauzino)
 ### Info
 
 to be a contributtor/collaborator, you must contact HyTera Development devs from the - [Discord Server](https://discord.gg/GZQrhyjfXe)
