@@ -1,0 +1,27 @@
+{
+  "scripts": {
+    "run": "node index.js"
+  },
+  "name": "docs",
+  "description": "### This template allows you to run the latest LTS version of nodejs.",
+  "version": "1.0.0",
+  "main": "_bhtml.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/NickHunterD3V/HyteScriptJS-docs.git"
+  },
+  "keywords": [
+    "documentation"
+  ],
+  "author": "HyTera Development",
+  "license": "SEE LICENSE IN LICENSE",
+  "bugs": {
+    "url": "https://github.com/NickHunterD3V/HyteScriptJS-docs/issues"
+  },
+  "homepage": "https://github.com/NickHunterD3V/HyteScriptJS-docs#readme",
+  "dependencies": {
+    "bootstrap": "^5.2.3",
+    "fs": "^0.0.1-security",
+    "http": "^0.0.1-security"
+  }
+}

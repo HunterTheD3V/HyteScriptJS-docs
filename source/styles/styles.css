@@ -1,0 +1,136 @@
+@charset "UTF-8";
+
+@import url('https://db.onlinewebfonts.com/c/4f6fb2fa3c231278167b36e966718cbb?family=Uni+Sans+Heavy');
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans&display=swap');
+
+
+/* PAGES STYLES */
+
+body {  
+	/* height: 125vh;  
+	margin-top: 80px;  */
+	
+	font-family: cairo;
+	background-color: #071f00 !important;
+}
+
+main {
+    margin: 50px;
+}
+nav {
+    background-color: #0d9b1e !important; 
+    width: 100%;
+}
+
+.nav-link {
+    font-family: 'Quicksand', sans-serif !important;
+    font-size: 25px;
+    color: #3300eb !important;
+}
+.nav-item {
+    background-color: #66cc72 !important;
+    margin-left: 5px;
+    text-align: center;
+    transition: 0.3s !important;
+    margin-right: 5px;
+    border-radius: 5px;
+}
+.nav-item:hover {
+    text-align: center;
+    transform: scale(1.1);
+    transition: 0.3s !important;
+    background-color: #9ce2a4 !important;
+}
+h1 {
+	font-size: 70px !important;
+	text-align: center ;
+}
+h6 {
+	font-size: 25px !important;
+	text-align: center ;
+}
+/*
+nav  {
+		position:  fixed; /* makes the element always show, even when it is scrolled past. 
+		top:  0; /* Move it to the top 
+		align-content: center;
+		left:  1; /* Move it to the left 
+		width:  100vw; /* Make it fill the x axis 
+		height:  55px; /* Make it take up the same amount of height as we set on the main element 
+		display:  flex; /* Allow us to position child elements more easily 
+		justify-content:  space-around; /* Make the child elements sit nicely along the x axis 
+		align-items:  center; /* Make everything centered along the y axis 
+		background-color:  var(--accent-color); /* Reference to the accent-color variable we set in :root
+		box-shadow:  0  2px  2px  0  rgb(0  0  0 / 14%),  0  3px  1px  -2px  rgb(0  0  0 / 12%),  0  1px  5px  0  rgb(0  0  0 / 20%);
+		/* Add Google's fancy looking shadow. Credit: material.io
+	}
+
+li {
+	height: 100%;
+	width: 100%;
+	color: white
+}
+ul {
+	top: 10px;
+	position: relative;
+	height: 5;
+}
+*/
+
+header {   
+	box-shadow: 0 0 25px 0 black;  
+} 
+
+/*
+header li {  
+	margin: 30px;  
+}  
+header li a {
+    height: 40px;
+    border-radius: 5px; 
+    background-color: #6bff7c;
+  	padding: 5px;
+	color: #0011fa;  
+	font-family: 'Quicksand', semibold;
+	font-size: 25px;
+	text-decoration: none;  
+}
+*/
+.hyminer-logo {
+	font-family: 'Minecraft Evenings', sans-serif;
+	color: #051400;
+	font-size: 40px;
+}
+.horizontal_line {
+	 background-color: green;
+            width: 100%;
+            height: 5px;
+            border-top: 5px ;
+            line-height: 80%;
+	box-shadow: 0 0 25px 0 black; 
+}
+footer {
+	background-color: #030f00;
+	box-shadow: 0 0 25px 0 black; 
+	margin: 50px;
+	height: 20vh;
+}
+
+/* COMPONENTS STYLES */
+
+.button {
+  background-color: #4CAF50; /* Green */
+  border: none;
+  color: white;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 25px;
+  margin: 4px 2px;
+  cursor: pointer;
+}
+.discord {
+	background-color: #7289da;
+	font-family: 'Open Sans', sans-serif;
+} /* Blue */
