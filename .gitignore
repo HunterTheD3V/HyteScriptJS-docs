@@ -1,0 +1,10 @@
+# files
+.breakpoints
+.replit
+_bhtml.js
+package-lock.json
+replit.nix
+
+# folders
+git
+node_modules
